@@ -27,6 +27,7 @@ requirements = [
     "sidpy>=0.12.1",
     "pyUSID>=0.0.11",
     "xlrd>=1.0.0",
+    "pyswarms>=1.3.0",
 ]
 
 setup(
